@@ -1,0 +1,201 @@
+@media (max-width: 1440px) {
+    .container {
+        width: 90%;
+    }
+}
+@media (max-width: 1200px) {
+    .foot {
+        width: 1058px;
+    }
+    .hero-title h1 {
+        font-size: 50px;
+    }
+    .header-title {
+        display: none;
+    }
+    .hero-title select {
+        font-size: 13px;
+    }
+    .new-title h1 {
+        font-weight: 700;
+        font-size: 34px;
+    }
+    .new-title p {
+        font-size: 16px;
+    }
+    .natures {
+        flex-wrap: wrap;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    .sunny-title h1 {
+        font-size: 33px;
+    }
+    .sunny-title p {
+        font-size: 16px;
+    }
+    .man-title p {
+        font-weight: 400;
+        font-size: 20px;
+    }
+    .man-title h1 {
+        font-weight: 700;
+        font-size: 20px;
+    }
+    .man-title h4 {
+        font-weight: 400;
+        font-size: 16px;
+    }
+    .hero-title img {
+        width: 90%;
+    }
+    .icon {
+        position: absolute;
+        width: 132px;
+        height: 60px;
+    }
+}
+@media (max-width: 1024px) {
+    .new-title h1 {
+        font-weight: 700;
+        font-size: 30px;
+    }
+    .new-title p {
+        font-size: 14px;
+    }
+    .icon {
+        position: absolute;
+        width: 132px;
+        height: 60px;
+        left: 930px;
+    }
+    .blocks {
+        flex-wrap: wrap;
+    }
+    .foot {
+        width: 947px;
+    }
+}
+@media (max-width: 992px) {
+    .foot {
+        width: 900px;
+    }
+}
+@media (max-width: 768px) {
+    .hero-img img {
+        width: 90%;
+    }
+    .new-img img {
+        width: 90%;
+    }
+    .synny-img img {
+        width: 90%;
+    }
+    .man-img img {
+        width: 90%;
+    }
+    .man-title p {
+        font-weight: 400;
+        font-size: 18px;
+    }
+    .foot {
+        width: 700px;
+    }
+    .icon {
+        position: absolute;
+        left: 295px;
+    }
+    .footer-start h1 {
+        font-size: 16px;
+    }
+    .footer-start p {
+        font-size: 16px;
+    }
+    .footer-top h1 {
+        font-size: 17px;
+    }
+    .footer-top p {
+        font-size: 15px;
+    }
+}
+@media (max-width: 576px) {
+    .hero-title h1 {
+        font-size: 30px;
+    }
+    .hero-title button {
+        font-size: 15px;
+        width: 89px;
+        height: 41px;
+    }
+    .foot {
+        width: 500px;
+    }
+}
+@media (max-width: 451px) {
+    .hero-title h1 {
+        font-size: 20px;
+    }
+    .hero-title p {
+        font-size: 17px;
+    }
+    .hero-title select {
+        font-size: 9px;
+    }
+    .hero {
+        flex-direction: column;
+    }
+    .natures {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .man-title p {
+        font-size: 15px;
+    }
+    .man-title h1 {
+        font-size: 15px;
+    }
+    .man-title h4 {
+        font-size: 13px;
+    }
+    .footer {
+        flex-direction: column;
+    }
+    .foot {
+        width: 390px;
+    }
+}
+@media (max-width: 400px) {
+    .new-title button {
+        font-size: 14px;
+        width: 106px;
+        height: 42px;
+    }
+    .new {
+        flex-direction: column;
+    }
+    .sunny {
+        flex-direction: column;
+    }
+    .sunny-title button {
+        font-size: 14px;
+        width: 95px;
+        height: 36px;
+    }
+    .man {
+        flex-direction: column;
+    }
+    .foot {
+        width: 349px;
+    }
+    .icon {
+        left: 83px;
+    }
+}
+@media (max-width: 376px) {
+
+}
+@media (max-width: 320px) {
+    .foot {
+        width: 283px;
+    }
+}
